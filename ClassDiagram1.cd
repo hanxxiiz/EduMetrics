@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EDUMETRICS_FINAL_.FileOperations.CourseManagement">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAEAEgCAABAEAAEYAgAAAQACgAAAAAAAAAgA=</HashCode>
+      <FileName>FileOperations\CourseManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.FileOperations.EnrollmentCatalog">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAgABAAAAAAgAAIgAAgAAAAAgACAAEAAAAE=</HashCode>
+      <FileName>FileOperations\EnrollmentCatalog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.FileOperations.UserFile">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAABBAAAAAAAgAIAAAAAAAAAABAAAAAABAA=</HashCode>
+      <FileName>FileOperations\UserFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.EnrollmentSystem" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAQEAAAAABAAIABAAAAAAAAACAAA=</HashCode>
+      <FileName>MainOperations\EnrollmentSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.TeacherClass" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAIAAAAAAAAAABCAIAABAAAAAAEQCAAA=</HashCode>
+      <FileName>MainOperations\EnrollmentSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.StudentClass" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MainOperations\EnrollmentSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.Student" Collapsed="true">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MainOperations\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.Teacher" Collapsed="true">
+    <Position X="6.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>MainOperations\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.GradeStudents" Collapsed="true">
+    <Position X="12" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainOperations\GradeStudents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.MessageService" Collapsed="true">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgIAAACEAAAAAAAAAABAgAAAAIQAAAAA=</HashCode>
+      <FileName>MainOperations\MessageService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.TeacherMessages" Collapsed="true">
+    <Position X="8.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAQAAAAA=</HashCode>
+      <FileName>MainOperations\MessageService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.StudentMessages" Collapsed="true">
+    <Position X="6.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAQAAAAA=</HashCode>
+      <FileName>MainOperations\MessageService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.InputFormat">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFAAAAAAAAAAAAAAEAAAIAAACAAAAAA=</HashCode>
+      <FileName>InputFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.ViewStudentPerformance" Collapsed="true">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MainOperations\ViewStudentPerformance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.StudentView" Collapsed="true">
+    <Position X="4.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MainOperations\ViewStudentPerformance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.TeacherView" Collapsed="true">
+    <Position X="2" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>MainOperations\ViewStudentPerformance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.AddTask" Collapsed="true">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAABAAgAAAAAAABAAIAAAACAE=</HashCode>
+      <FileName>MainOperations\AddTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.StudentRequests" Collapsed="true">
+    <Position X="14" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAEAAAAAAAQAIBAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainOperations\StudentRequests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.MainOperations.ViewClassPerformance" Collapsed="true">
+    <Position X="16" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAACIAAAAAAAAAQCAAAIAAAAIAAAAAAA=</HashCode>
+      <FileName>MainOperations\ViewClassPerformance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.Authentication.UserAuthentication" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgIAIAAAAAAAAAAAAEBACAAAQAAAEAAA=</HashCode>
+      <FileName>Authentication\UserAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.Authentication.TeacherAuthentication" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAEAAA=</HashCode>
+      <FileName>Authentication\UserAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.Authentication.StudentAuthentication" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAEAAA=</HashCode>
+      <FileName>Authentication\UserAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EDUMETRICS_FINAL_.EduMetrics" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EduMetrics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

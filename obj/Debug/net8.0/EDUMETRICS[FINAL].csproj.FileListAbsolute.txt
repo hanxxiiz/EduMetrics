@@ -1,0 +1,17 @@
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\bin\Debug\net8.0\EDUMETRICS[FINAL].exe
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\bin\Debug\net8.0\EDUMETRICS[FINAL].deps.json
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\bin\Debug\net8.0\EDUMETRICS[FINAL].runtimeconfig.json
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\bin\Debug\net8.0\EDUMETRICS[FINAL].dll
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\bin\Debug\net8.0\EDUMETRICS[FINAL].pdb
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].AssemblyInfoInputs.cache
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].AssemblyInfo.cs
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].csproj.CoreCompileInputs.cache
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].dll
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\refint\EDUMETRICS[FINAL].dll
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].pdb
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].genruntimeconfig.cache
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\ref\EDUMETRICS[FINAL].dll
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRICS[FINAL].csproj.AssemblyReference.cache
+C:\Users\user1\source\vsstudio\CPE261\EDUMETRICS[FINAL]\obj\Debug\net8.0\EDUMETRI.3164A4E4.Up2Date
